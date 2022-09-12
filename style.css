@@ -14,9 +14,6 @@ to this section's matching END comment to see page-specific styles.
   See if you can cross-reference the rules in this file with the elements in index.html
 */
 
-/* Our default values set as CSS variables */
-:root {
-  --color-bg: #d9ffb3;
   --color-text-main: #000000;
   --color-primary: #d9ffb3;
   --wrapper-height: 87vh;
@@ -25,6 +22,9 @@ to this section's matching END comment to see page-specific styles.
   --font-family: "HK Grotesk";
   --font-family-header: "HK Grotesk";
 }
+/* Our default values set as CSS variables */
+:root {
+  --color-bg: #d9ffb3;
 
 /* Basic page style resets */
 * {
