@@ -62,7 +62,7 @@ body
 {background-color: #000000;}
 {
   margin: 0 auto;
-  max-width: 56em;
+  max-width: 76em;
   padding: 1em 0;
 }
 
@@ -108,7 +108,6 @@ body
   justify-content: center;
 }
 
-/* Very light scaling for our illustration */
 .title {
   color:  #94ff94;
   font-style: normal;
@@ -117,16 +116,16 @@ body
   line-height: 105%;
   margin: 0;
 }
-.title< {
-  color:  #ffffff;
+.titled {
+  color:  #54a338;
   font-style: normal;
   font-weight: bold;
-  font-size: 90px;
+  font-size: 50px;
   line-height: 70%;
   margin: 0;
 }
-.title<< {
-  color:  #ffffff;
+.titlef {
+  color:  #2e701f;
   font-style: normal;
   font-weight: bold;
   font-size: 50px;
