@@ -51,9 +51,7 @@
 /******************************************************************************
 END Glitch hello-app default styles
 ******************************************************************************/
- table, th, td {
-  border:1px solid black;
-}
+
 body .grid {
   display: grid;
   grid-template-columns: 150px auto 150px;
