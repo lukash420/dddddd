@@ -59,7 +59,12 @@ body {
   background-color: #000000;
 }
 
-
+td {
+  height: 80px;
+  width: 160px;
+  text-align: left;
+  vertical-align: middle;
+}
 
  {
   background-color: #000000;
