@@ -1,14 +1,14 @@
 
 
---color-text-main: #000000;
---color-primary: #d9ffb3;
+--color-text-main: #ffffff;
+--color-primary: #000000;
 --wrapper-height: 87vh;
 --image-max-width: 300px;
 --image-margin: 3rem;
 --font-family: "HK Grotesk";
 --font-family-header: "HK Grotesk";
 /* Our default values set as CSS variables */
---color-bg: #d9ffb3;
+--color-bg: #000000;
 
 /* Basic page style resets */
 * {
@@ -31,31 +31,6 @@
     format("opentype");
 }
 
-/* Our remix on glitch button */
-.btn--remix {
-  font-family: HK Grotesk;
-  padding: 0.75rem 1rem;
-  font-size: 1.1rem;
-  line-height: 1rem;
-  font-weight: 500;
-  height: 2.75rem;
-  align-items: center;
-  cursor: pointer;
-  background: #ffffff;
-  border: 1px solid #000000;
-  box-sizing: border-box;
-  border-radius: 4px;
-  text-decoration: none;
-  color: #000;
-  white-space: nowrap;
-  margin-left: auto;
-}
-.btn--remix img {
-  margin-right: 0.5rem;
-}
-.btn--remix:hover {
-  background-color: #d0fff1;
-}
 
 /* Navigation grid */
 .footer {
@@ -115,7 +90,7 @@ body {
 
 /* Very light scaling for our illustration */
 .title {
-  color: #2800ff;
+  color:  #94ff94;
   font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
@@ -136,33 +111,9 @@ body {
   margin: 1rem auto 0;
 }
 
-/* Button - Add it from the README instructions */
-button,
-input {
-  font-family: inherit;
-  font-size: 100%;
-  background: #ffffff;
-  border: 1px solid #000000;
-  box-sizing: border-box;
-  border-radius: 4px;
-  padding: 0.5rem 1rem;
-  transition: 500ms;
-}
+
 
 /* Subheading */
 h2 {
   color: #2800ff;
-}
-
-/* Interactive image */
-.illustration:active {
-  transform: translateY(5px);
-}
-
-/* Button dip
-- Toggling this class on and off will move it down and up again
-- The button transition property above determines the speed of the translate (500ms)
-*/
-.dipped {
-  transform: translateY(5px);
 }
