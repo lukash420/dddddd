@@ -52,57 +52,21 @@
 END Glitch hello-app default styles
 ******************************************************************************/
 
-body .grid {
-  display: grid;
-  grid-template-columns: 150px auto 150px;
-  grid-gap: 1em;
-  background-color: #000000;
-}
 
-header,
-footer {
-  grid-column: 1 / 4;
-  background-color: #000000;
-}
-
-@media all and (max-width: 700px) {
-  aside,
-  article {
-    grid-column: 1 / 4;
-    background-color: #000000;
-  }
-}
-
-/* Demo Specific Styles */
 body {
   margin: 0 auto;
-  max-width: 56em;
-  padding: 1em 0;
+
   background-color: #000000;
 }
 
-header,
-aside,
-article,
-footer {
-  background: #000000;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 25vh;
-  background-color: #000000;
-}
+
+
  {
   background-color: #000000;
 }
 
 /* Page structure */
-.wrapper {
-  min-height: var(--wrapper-height);
-  display: grid;
-  place-items: center;
-  margin: 0 1rem;
-}
+
 .content {
   display: flex;
   flex-direction: column;
