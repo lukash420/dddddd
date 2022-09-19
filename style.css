@@ -40,22 +40,11 @@
   padding: 1rem 0 0.75rem 0;
   width: 100%;
   flex-wrap: wrap;
-  border-top: 4px solid #fff;
+  border-top: 4px solid #ffffff;
 }
 
-.footer a:not(.btn--remix):link,
-a:not(.btn--remix):visited {
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 1.1rem;
-  color: #000;
-  text-decoration: none;
-  border-style: none;
-}
-.footer a:hover {
-  background: var(--color-primary);
-}
+
+
 
 .footer .links {
   padding: 0.5rem 1rem 1.5rem;
@@ -70,8 +59,7 @@ END Glitch hello-app default styles
 ******************************************************************************/
 
 body {
-  font-family: HK Grotesk;
-  background-color: var(--color-bg);
+  background-color: #000000;
 }
 
 /* Page structure */
@@ -91,14 +79,20 @@ body {
 /* Very light scaling for our illustration */
 .title {
   color:  #94ff94;
-  font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
   font-size: 100px;
   line-height: 105%;
   margin: 0;
 }
-
+.title< {
+  color:  #ffffff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 70%;
+  margin: 0;
+}
 /* Very light scaling for our illustration */
 .illustration {
   max-width: 100%;
@@ -114,6 +108,24 @@ body {
 
 
 /* Subheading */
+h1 {
+  color: #ffffff;
+}
 h2 {
-  color: #2800ff;
+  color: #ffffff;
+}
+h3 {
+  color: #ffffff;
+}
+h4 {
+  color: #ffffff;
+}
+h5 {
+  color: #ffffff;
+}
+h6 {
+  color: #ffffff;
+}
+h7 {
+  color: #ffffff;
 }
