@@ -93,17 +93,16 @@ body {
   line-height: 70%;
   margin: 0;
 }
-/* Very light scaling for our illustration */
-.illustration {
-  max-width: 100%;
-  max-height: var(--image-max-width);
-  margin-top: var(--image-margin);
+.title<< {
+  color:  #ffffff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 70%;
+  margin: 0;
 }
 
-/* Instructions */
-.instructions {
-  margin: 1rem auto 0;
-}
+
 
 
 
