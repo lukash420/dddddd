@@ -155,66 +155,67 @@ td {
   background: linear-gradient(rgba(84, 112, 61, 1), rgba(55, 63, 48, 1));
 }
 .karp {
-  width: 100px;
+  width: 200px;
   height: 100px;
-  background-image: ("https://atlasryb.online/zdjecia/1440_1200.jpg");
+  background-image: url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/karp?v=1669144834899");
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
 }
 .szczupak {
-  width: 100px;
+  width: 200px;
   height: 100px;
-  background-image: ;
+  background-image:url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/szczupak?v=1669144830771") ;
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
 }
 .amur {
-  width: 100px;
+  width: 200px;
   height: 100px;
-  background-image: ;
+  background-image:url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/amur-bialy?v=1669144827088") ;
   background-position: center; 
   background-repeat: no-repeat;
   background-size: cover;
 }
 .płoć {
-  width: 100px;
+  width: 200px;
   height: 100px;
-  background-image: ;
+  background-image:url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/płoć?v=1669144817891") ;
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
 }
-.leszcz {
-  width: 100px;
+.krąp {
+  width: 200px;
   height: 100px;
-  background-image: ;
+  background-image:url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/krąp?v=1669144807714") ;
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
 }
 
 .sum {
-  width: 100px;
+  width: 150px;
   height: 100px;
+  background-image:url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/sum?v=1669144801024");
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
   background-image: ;
 }
 .okoń {
-  width: 100px;
+  width: 150px;
   height: 100px;
-  background-image: ;
+  background-image:url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/okoń?v=1669144809288") ;
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
 }
 .sandacz {
-  width: 100px;
+  width: 200px;
   height: 100px;
-  background-image: ;
+  background-image:url("https://cdn.glitch.global/f2544597-b34b-44ca-a996-18c15f6b3b83/sandacz?v=1669144800024") ;
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;
