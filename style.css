@@ -155,6 +155,18 @@ td {
   background: linear-gradient(rgba(84, 112, 61, 1), rgba(55, 63, 48, 1));
 }
 
+img {
+width:100px;
+height:100px;
+  
+  
+  
+  
+  
+}
+
+
+
 /* Subheading */
 h1 {
   color: #ffffff;
