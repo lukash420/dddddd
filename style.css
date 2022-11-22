@@ -154,18 +154,73 @@ td {
   text-shadow: inset 0px 1px 0px #aade7c;
   background: linear-gradient(rgba(84, 112, 61, 1), rgba(55, 63, 48, 1));
 }
-.karp
-.szczupak
-.amur
-.p
-.
-.
+.karp {
+  width: 100px;
+  height: 100px;
+  background-image: ("https://atlasryb.online/zdjecia/1440_1200.jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.szczupak {
+  width: 100px;
+  height: 100px;
+  background-image: ;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.amur {
+  width: 100px;
+  height: 100px;
+  background-image: ;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.płoć {
+  width: 100px;
+  height: 100px;
+  background-image: ;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.leszcz {
+  width: 100px;
+  height: 100px;
+  background-image: ;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+.sum {
+  width: 100px;
+  height: 100px;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-image: ;
+}
+.okoń {
+  width: 100px;
+  height: 100px;
+  background-image: ;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.sandacz {
+  width: 100px;
+  height: 100px;
+  background-image: ;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
 
 
-
-
-
-/* Subheading */
 h1 {
   color: #ffffff;
 }
